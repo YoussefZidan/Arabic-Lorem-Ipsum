@@ -5,6 +5,10 @@
   "version": "1.0.0",
   "publisher": "Youssef Zidan",
   "icon": "./images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YoussefZidan/Arabic-Lorem-Ipsum"
+  },
   "keywords": [
     "arabic lorem ipsum",
     "lorem ipsum",
