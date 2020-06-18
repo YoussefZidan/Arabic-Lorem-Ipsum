@@ -1,4 +1,4 @@
-# Arabic Lorem Ipsum README
+# Arabic Lorem Ipsum
 
 Genering Dummy Lorem Ipsum Text in Arabic Language.
 
