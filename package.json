@@ -3,8 +3,8 @@
   "displayName": "Arabic Lorem Ipsum",
   "description": "Generating Arabic Dummy Words",
   "version": "1.0.0",
-  "publisher": "Youssef Zidan",
-  "icon": "./images/icon.png",
+  "publisher": "YoussefZidan",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/YoussefZidan/Arabic-Lorem-Ipsum"

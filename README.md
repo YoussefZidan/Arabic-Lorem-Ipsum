@@ -11,9 +11,13 @@ If you'd like to buy me a Coffee :-)
 <img src="https://media.giphy.com/media/XeqiKGkOPiEPrRJb5E/giphy.gif">
 
 ## Installation
+<a href="https://github.com/YoussefZidan/Arabic-Lorem-Ipsum">GitHub Repo</a>
 
 In order to install an extension you need to launch the Command Palette (Ctrl + Shift + P or Cmd + Shift + P) and type Extensions.
 There you have either the option to show the already installed snippets or install new ones. Search for *Arabic Lorem Ipsum* and install it.
+
+
+
 
 
 ## Snippets
