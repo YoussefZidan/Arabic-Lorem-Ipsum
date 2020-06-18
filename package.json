@@ -1,0 +1,31 @@
+{
+  "name": "ArabicLoremIpsum",
+  "displayName": "Arabic Lorem Ipsum",
+  "description": "Generating Arabic Dummy Words",
+  "version": "1.0.0",
+  "publisher": "Youssef Zidan",
+  "icon": "./images/icon.png",
+  "keywords": [
+    "arabic lorem ipsum",
+    "lorem ipsum",
+    "dummy arabic words"
+  ],
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.code-snippets"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
