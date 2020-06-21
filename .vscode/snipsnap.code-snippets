@@ -1,0 +1,1 @@
+{"errors":[{"status":422,"title":"Invalid parameters","detail":"Packages should not be an empty array","source":{"parameter":"packages"}}]}
