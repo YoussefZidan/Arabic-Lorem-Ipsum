@@ -1,35 +1,40 @@
 {
-  "name": "ArabicLoremIpsum",
-  "displayName": "Arabic Lorem Ipsum",
-  "description": "Generating Arabic Dummy Words",
-  "version": "1.0.3",
-  "publisher": "YoussefZidan",
-  "icon": "icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/YoussefZidan/Arabic-Lorem-Ipsum"
-  },
-  "keywords": [
-    "arabic lorem ipsum",
-    "lorem ipsum",
-    "dummy arabic words"
-  ],
-  "engines": {
-    "vscode": "^1.46.0"
-  },
-  "categories": [
-    "Snippets"
-  ],
-  "contributes": {
-    "snippets": [
-      {
-        "language": "html",
-        "path": "./snippets/snippets.code-snippets"
-      },
-      {
-        "language": "javascriptreact",
-        "path": "./snippets/snippets.code-snippets"
-      }
-    ]
-  }
+	"name": "ArabicLoremIpsum",
+	"displayName": "Arabic Lorem Ipsum",
+	"description": "Generating Arabic Dummy Words",
+	"version": "1.0.3",
+	"publisher": "YoussefZidan",
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/YoussefZidan/Arabic-Lorem-Ipsum"
+	},
+	"keywords": [
+		"arabic lorem ipsum",
+		"lorem ipsum",
+		"dummy arabic words"
+	],
+	"engines": {
+		"vscode": "^1.46.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "html",
+				"path": "./snippets/snippets.code-snippets"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "50d5ac22-0942-4471-86f9-d4fd570c68e2",
+		"publisherDisplayName": "YoussefZidan",
+		"publisherId": "38c37f26-d08a-4d74-a571-d043e31696e6"
+	}
 }
