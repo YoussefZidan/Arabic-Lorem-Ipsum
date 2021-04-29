@@ -1,6 +1,6 @@
 # Arabic Lorem Ipsum
 
-Genering Dummy Lorem Ipsum Text in Arabic Language.
+Generating Dummy Lorem Ipsum Text in the Arabic Language.
 
 If you'd like to buy me a Coffee :-)
 
